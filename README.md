@@ -11,8 +11,6 @@ Variante realizate:
 ![poza](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/IMG_20190811_165942.jpg)
 ![poza7](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/IMG_20190811_165951.jpg)
 
-![poza2](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/IMG_20190811_165951.jpg
-
 ![poza3](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/IMAG0506.jpg)
 ![poza5](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/37390689_292898341300148_1594809463963910144_o.jpg)
 
