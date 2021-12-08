@@ -15,4 +15,4 @@ Variante realizate:
 ![poza5](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/37390689_292898341300148_1594809463963910144_o.jpg)
 
 ![poza4](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/69048013_343982739837754_7505420315711766528_n.jpg)
-
+![poza6](https://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/63e33f00-f0ca-46f5-8564-bb0f032572b8.jpeghttps://github.com/vlad-gheorghe/clock-with-ST7920/blob/master/63e33f00-f0ca-46f5-8564-bb0f032572b8.jpeg)
